@@ -1,0 +1,13 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Default Light Modern",
+    "editor.renderWhitespace": "all",
+    "files.insertFinalNewline": true,
+    "workbench.tips.enabled": false,
+    "extensions.autoCheckUpdates": false,
+    "keyboard.touchbar.enabled": false,
+    "telemetry.telemetryLevel": "off",
+    "update.showReleaseNotes": false,
+    "workbench.editor.tabActionCloseVisibility": false,
+    "files.trimTrailingWhitespace": true
+}

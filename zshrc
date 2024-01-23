@@ -25,9 +25,9 @@ if [[ ! -d "$HOME/.oh-my-zsh" ]] ; then
 else
   export ZSH="$HOME/.oh-my-zsh"
   export DISABLE_AUTO_UPDATE=true
-  
+
   ZSH_THEME="robbyrussell"
   plugins=(git)
 
   source $ZSH/oh-my-zsh.sh
-fi 
+fi

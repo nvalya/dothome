@@ -35,5 +35,10 @@ go.work
 *.xlog
 *.snap
 
+Thumbs.db
+
 .DS_Store
 .idea/
+.svn/
+.hg/
+CVS/
