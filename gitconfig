@@ -1,7 +1,7 @@
 [user]
     name = Valentin Novikov
-    email = nvalya@local.host
-    ; signingkey = 0000000
+    email = vn-git@yandex.ru
+    signingkey = 4661797E
 [core]
     editor = vim
     quotepath = false
