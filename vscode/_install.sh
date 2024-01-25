@@ -10,6 +10,7 @@ install_extensions() {
 }
 
 install_extensions \
+  "wayou.vscode-todo-highlight" \
   "yzhang.markdown-all-in-one" \
   "golang.go" \
   "quillaja.goasm" \
